@@ -1,6 +1,6 @@
 # hurri-artic-bot-script
 botty druid script
-import keyboard
+'''import keyboard
 from utils.custom_mouse import mouse
 from char.i_char import IChar
 from template_finder import TemplateFinder
@@ -105,3 +105,4 @@ if __name__ == "__main__":
     char.select_by_template("A5_WP")
     wait(1.0)
     ui_manager.use_wp(4, 1)
+'''
