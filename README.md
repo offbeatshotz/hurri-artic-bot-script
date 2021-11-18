@@ -1,5 +1,3 @@
-# hurri-artic-bot-script
-botty druid script
 import keyboard
 from utils.custom_mouse import mouse
 from char.i_char import IChar
